@@ -1,4 +1,4 @@
 Three observable trends:
 1) The demographics with the greatest number of players is males (84%) and people aged between 20 and 24 (45%). 
 2) The age group 20-24 accounts for the highest value of purchases. This is due to a combination of greater user numbers, as stated above, and higher purchase amounts per person. Of the top four spending age brackets, the group 20-24 are both the most represented and the highest spending per person. 
-3) 
+3) The price of an item does not appear to impact it's popularity. 4 of the top 5 highest earning items are also in the top 5 most popular items (Nirvana is equal 3rd in popularity with 9 purchases but drops off the top 5 list. In fact, given a mean item price of $3.05, median price of $3.15 and a max price of $4.99, it is some of the most expensive items that are also the most popular.   
